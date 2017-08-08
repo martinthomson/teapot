@@ -1,13 +1,26 @@
+---
+title: The Teapot Exists
+docname: draft-thomson-teapot-latest
+category: info
 
-A server MUST NOT process requests that arrive in early data, or requests marked
-with the `Early-Data` header field unless it determines that the processing is
-free from side-effects.  Otherwise, the server MUST consistently use the same
-approach: either using the 4NN (Too Early) status code, or delaying processing
-until the handshake completes.
+ipr: trust200902
+area: ART
+keyword: Internet-Draft
 
-# Abstract
+stand_alone: yes
+
+author:
+ -
+    ins: M. Thomson
+    name: Martin Thomson
+    organization: Mozilla
+    email: martin.thomson@gmail.com
+
+--- abstract
 
 The teapot exists.
+
+--- middle
 
 # The Existence of Teapots
 
@@ -50,3 +63,12 @@ jokes always have consequences.
 IANA shall register the 418 (I'm a Teapot) status code in the
 Hypertext Transfer Protocol (HTTP) Status Code Registry, though
 the citation should refer to RFC 2324 instead of this document.
+
+As recommended by {{!RFC7231}}, this document refines the
+definition of the 418 status code.  Being a teapot is
+irrevocable, therefore this status code is cacheable.  The
+payload of a response with a 418 status code isn't a
+representation of the effective request URI unless the
+Content-Location header field contains the effective request URI.
+
+--- back
