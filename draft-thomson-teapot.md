@@ -58,7 +58,7 @@ increased in recent years.
 The teapot exists.
 
 
-# Philisopohical Considerations
+# Philosophical Considerations
 
 We cannot be certain whether the teapot is cognizant of its own existence.
 Though Decartes {{COGITO}} used thought as the basis of his theory of existence,
