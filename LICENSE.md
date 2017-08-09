@@ -1,4 +1,4 @@
 # License
 
 See the
-[guidelines for contributions](https://github.com/{GITHUB_USER}/{GITHUB_REPO}/blob/master/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/martinthomson/teapot/blob/master/CONTRIBUTING.md).
