@@ -65,11 +65,12 @@ Though Decartes {{COGITO}} used thought as the basis of his theory of existence,
 it's not established whether thought is a necessary precondition for existence.
 
 ~~~
-                  ___
+
                  (418)
                 o
              _,_
            c(___)r
+
 ~~~
 
 
