@@ -74,7 +74,7 @@ Internet-Draft              The Teapot Exists                August 2017
 
    The teapot exists.
 
-2.  Philisopohical Considerations
+2.  Philosophical Considerations
 
    We cannot be certain whether the teapot is cognizant of its own
    existence.  Though Decartes [COGITO] used thought as the basis of his
