@@ -66,10 +66,12 @@ it's not established whether thought is a necessary precondition for existence.
 
 ~~~
 
-                 (418)
-                o
-             _,_
-           c(___)r
+
+                              (418)
+                             o
+                          _,_
+                        c(___)r
+
 
 ~~~
 
