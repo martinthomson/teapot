@@ -81,10 +81,12 @@ Internet-Draft              The Teapot Exists                August 2017
    theory of existence, it's not established whether thought is a
    necessary precondition for existence.
 
-                    (418)
-                   o
-                _,_
-              c(___)r
+
+                                 (418)
+                                o
+                             _,_
+                           c(___)r
+
 
 
 3.  Security Considerations
@@ -104,8 +106,6 @@ Internet-Draft              The Teapot Exists                August 2017
    status code isn't a representation of the effective request URI
    unless the Content-Location header field contains the effective
    request URI.
-
-
 
 
 
