@@ -21,8 +21,8 @@ informative:
     title: "Is There a God?"
     author:
       -
-        ins: Bertrand Russell
-        name: B. Garvey
+        ins: B. Russell
+        name: Bertrand Russell
     date: 1952
     seriesinfo: Never published
     target: https://www.cfpf.org.uk/articles/religion/br/br_god.html
@@ -83,8 +83,7 @@ consequences.
 # IANA Considerations
 
 IANA shall register the 418 (I'm a Teapot) status code in the Hypertext Transfer
-Protocol (HTTP) Status Code Registry, though the citation should refer to RFC
-2324 instead of this document.
+Protocol (HTTP) Status Code Registry, citing this document.
 
 As recommended by {{!RFC7231}}, this document refines the definition of the 418
 status code.  Being a teapot is irrevocable, therefore this status code is
