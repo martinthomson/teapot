@@ -4,8 +4,8 @@
 
 Network Working Group                                         M. Thomson
 Internet-Draft                                                   Mozilla
-Intended status: Informational                           August 09, 2017
-Expires: February 10, 2018
+Intended status: Informational                           August 11, 2017
+Expires: February 12, 2018
 
 
                            The Teapot Exists
@@ -30,7 +30,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on February 10, 2018.
+   This Internet-Draft will expire on February 12, 2018.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Thomson                 Expires February 10, 2018               [Page 1]
+Thomson                 Expires February 12, 2018               [Page 1]
 
 Internet-Draft              The Teapot Exists                August 2017
 
@@ -95,8 +95,8 @@ Internet-Draft              The Teapot Exists                August 2017
 4.  IANA Considerations
 
    IANA shall register the 418 (I'm a Teapot) status code in the
-   Hypertext Transfer Protocol (HTTP) Status Code Registry, though the
-   citation should refer to RFC 2324 instead of this document.
+   Hypertext Transfer Protocol (HTTP) Status Code Registry, citing this
+   document.
 
    As recommended by [RFC7231], this document refines the definition of
    the 418 status code.  Being a teapot is irrevocable, therefore this
@@ -109,7 +109,7 @@ Internet-Draft              The Teapot Exists                August 2017
 
 
 
-Thomson                 Expires February 10, 2018               [Page 2]
+Thomson                 Expires February 12, 2018               [Page 2]
 
 Internet-Draft              The Teapot Exists                August 2017
 
@@ -131,8 +131,8 @@ Internet-Draft              The Teapot Exists                August 2017
               (HTCPCP/1.0)", RFC 2324, DOI 10.17487/RFC2324, April 1998,
               <http://www.rfc-editor.org/info/rfc2324>.
 
-   [TEAPOT]   Bertrand Russell, ., "Is There a God?", Never published ,
-              1952, <https://www.cfpf.org.uk/articles/religion/br/
+   [TEAPOT]   Russell, B., "Is There a God?", Never published , 1952,
+              <https://www.cfpf.org.uk/articles/religion/br/
               br_god.html>.
 
 Author's Address
@@ -165,4 +165,4 @@ Author's Address
 
 
 
-Thomson                 Expires February 10, 2018               [Page 3]
+Thomson                 Expires February 12, 2018               [Page 3]
