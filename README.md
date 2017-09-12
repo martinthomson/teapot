@@ -2,9 +2,9 @@
 
 This is the working area for the individual Internet-Draft, "The Teapot Exists".
 
-* [Editor's Copy](https://martinthomson.github.io/teapot/#go.draft-thomson-teapot.html)
-* [Working Group Draft](https://tools.ietf.org/html/draft-thomson-teapot)
-* [Compare Editor's Copy to Working Group Draft](https://martinthomson.github.io/teapot/#go.draft-thomson-teapot.diff)
+* [Editor's Copy](https://martinthomson.github.io/teapot/#go.draft-thomson-http-teapot.html)
+* [Working Group Draft](https://tools.ietf.org/html/draft-thomson-http-teapot)
+* [Compare Editor's Copy to Working Group Draft](https://martinthomson.github.io/teapot/#go.draft-thomson-http-teapot.diff)
 
 ## Building the Draft
 
