@@ -1,6 +1,6 @@
 ---
 title: The Teapot Exists
-docname: draft-thomson-teapot-latest
+docname: draft-thomson-http-teapot-latest
 category: info
 
 ipr: trust200902
@@ -8,6 +8,7 @@ area: ART
 keyword: Internet-Draft
 
 stand_alone: yes
+pi: [notoc]
 
 author:
  -
